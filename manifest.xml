@@ -1,0 +1,11 @@
+<package>
+  <description brief="webview_msgs">
+    Messages to interface with rosfawkes webview.
+  </description>
+  <author>Tim Niemueller</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/webview_msgs</url>
+</package>
+
+
